@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(178, 194, 143);
+    font-family: 'Lucida Console', 'Courier New', serif;
+    text-align: center;
+    }
+
+h1 {
+    color: rgb(120, 35, 35);
+    font-style: italic;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
+
+ol {
+    text-align: start;
+}
+
+.recipe-links {
+    color: rgb(227, 203, 168);
+}
+
+.img-size-vert {
+    height: auto;
+    width: 400px;
+}
+
+.img-size-hor {
+    height: 600px;
+    width: auto
+}
